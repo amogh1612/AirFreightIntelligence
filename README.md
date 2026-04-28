@@ -1,4 +1,6 @@
 # AirFreightIntelligence
+(REPO was not used throughout an instead will act as a code dump)
+
 A machine learning system to forecast freight demand and detect anomalies at the lane level.
 
 The dataset used in this project is not included in this repository due to privacy and size constraints. The code assumes access to lane-level shipment data with fields such as origin, destination, shipment weight, and event date.
